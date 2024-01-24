@@ -1,0 +1,151 @@
+<div>
+	<table class="GridMain" cellspacing="0" cellpadding="4" rules="all" onkeydown="if (event.keyCode==13) {event.keyCode=9;}" border="1" id="ctl00_ContentPlaceHolder1_grdLearners" style="color:#333333;width:80%;border-collapse:collapse;">
+		<tr class="GridHeader" style="color:White;background-color:#507CD1;font-weight:bold;background-color:#FFFFFF;">
+			<th scope="col" style="background-color:green;">No.</th><th align="center" scope="col" style="white-space:nowrap;background-color:green;">Index</th><th align="center" scope="col" style="background-color:green;">Name</th><th align="left" scope="col" style="background-color:green;">Gender</th><th align="left" scope="col" style="background-color:green;">Year of Birth</th><th align="left" scope="col" style="background-color:green;">Marks</th><th align="left" scope="col" style="background-color:green;">Sub-County</th><th align="left" scope="col" style="background-color:green;">UPI</th><th scope="col">&nbsp;</th>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td>
+                1
+            </td><td align="left">43706182020</td><td align="left">CLINTON NYAMOSI MOGENI</td><td align="left">M</td><td align="left">2006</td><td align="left">180</td><td align="left">NYAMIRA</td><td align="left">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$0&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td style="background-color:#C2D69B;">
+                2
+            </td><td align="left" style="background-color:#C2D69B;">40740135046</td><td align="left" style="background-color:#C2D69B;">DOLPHINE BISIERI MAGETO</td><td align="left" style="background-color:#C2D69B;">F</td><td align="left" style="background-color:#C2D69B;">2006</td><td align="left" style="background-color:#C2D69B;">225</td><td align="left" style="background-color:#C2D69B;">SAMETA</td><td align="left" style="background-color:#C2D69B;">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$1&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td>
+                3
+            </td><td align="left">27570102011</td><td align="left">GACHIGO ELIZABETH NYAMBURA</td><td align="left">F</td><td align="left">2003</td><td align="left">183</td><td align="left">GILGIL</td><td align="left">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$2&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td style="background-color:#C2D69B;">
+                4
+            </td><td align="left" style="background-color:#C2D69B;">07213119041</td><td align="left" style="background-color:#C2D69B;">GICIGI VERONICAH MUTHONI</td><td align="left" style="background-color:#C2D69B;">F</td><td align="left" style="background-color:#C2D69B;">2003</td><td align="left" style="background-color:#C2D69B;">173</td><td align="left" style="background-color:#C2D69B;">NYANDARUA CENTRAL</td><td align="left" style="background-color:#C2D69B;">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$3&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td>
+                5
+            </td><td align="left">27570107119</td><td align="left">IKUBU JAMES WAWERU</td><td align="left">M</td><td align="left">2002</td><td align="left">124</td><td align="left">GILGIL</td><td align="left">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$4&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td style="background-color:#C2D69B;">
+                6
+            </td><td align="left" style="background-color:#C2D69B;">40735225001</td><td align="left" style="background-color:#C2D69B;">JOHN RAPHAEL NYABERI</td><td align="left" style="background-color:#C2D69B;">M</td><td align="left" style="background-color:#C2D69B;">2003</td><td align="left" style="background-color:#C2D69B;">232</td><td align="left" style="background-color:#C2D69B;">SOUTH MASABA</td><td align="left" style="background-color:#C2D69B;">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$5&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td>
+                7
+            </td><td align="left">27536109026</td><td align="left">KABURA JOHN MUHU</td><td align="left">M</td><td align="left">2003</td><td align="left">227</td><td align="left">NAKURU NORTH</td><td align="left">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$6&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td style="background-color:#C2D69B;">
+                8
+            </td><td align="left" style="background-color:#C2D69B;">27537305084</td><td align="left" style="background-color:#C2D69B;">KIARII NANCY WAIRIMU </td><td align="left" style="background-color:#C2D69B;">F</td><td align="left" style="background-color:#C2D69B;">2005</td><td align="left" style="background-color:#C2D69B;">265</td><td align="left" style="background-color:#C2D69B;">NAIVASHA</td><td align="left" style="background-color:#C2D69B;">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$7&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td>
+                9
+            </td><td align="left">27570107046</td><td align="left">KUNDAI FAITH NASERIAN</td><td align="left">F</td><td align="left">2004</td><td align="left">230</td><td align="left">GILGIL</td><td align="left">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$8&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td style="background-color:#C2D69B;">
+                10
+            </td><td align="left" style="background-color:#C2D69B;">27570107020</td><td align="left" style="background-color:#C2D69B;">KUNG&#39;U PETER NJONJO</td><td align="left" style="background-color:#C2D69B;">M</td><td align="left" style="background-color:#C2D69B;">2004</td><td align="left" style="background-color:#C2D69B;">212</td><td align="left" style="background-color:#C2D69B;">GILGIL</td><td align="left" style="background-color:#C2D69B;">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$9&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td>
+                11
+            </td><td align="left">27570109047</td><td align="left">MAINA PAUL WAWERU</td><td align="left">M</td><td align="left">2002</td><td align="left">215</td><td align="left">GILGIL</td><td align="left">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$10&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td style="background-color:#C2D69B;">
+                12
+            </td><td align="left" style="background-color:#C2D69B;">27570113023</td><td align="left" style="background-color:#C2D69B;">MAINA SARAH WACU</td><td align="left" style="background-color:#C2D69B;">F</td><td align="left" style="background-color:#C2D69B;">2002</td><td align="left" style="background-color:#C2D69B;">204</td><td align="left" style="background-color:#C2D69B;">GILGIL</td><td align="left" style="background-color:#C2D69B;">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$11&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td>
+                13
+            </td><td align="left">27570114033</td><td align="left">MARGRET WAIRIMU</td><td align="left">F</td><td align="left">2003</td><td align="left">161</td><td align="left">GILGIL</td><td align="left">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$12&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td style="background-color:#C2D69B;">
+                14
+            </td><td align="left" style="background-color:#C2D69B;">27570115016</td><td align="left" style="background-color:#C2D69B;">MBURU MARY WANJIRU</td><td align="left" style="background-color:#C2D69B;">F</td><td align="left" style="background-color:#C2D69B;">2002</td><td align="left" style="background-color:#C2D69B;">196</td><td align="left" style="background-color:#C2D69B;">GILGIL</td><td align="left" style="background-color:#C2D69B;">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$13&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td>
+                15
+            </td><td align="left">27570107072</td><td align="left">MUGI BONIFACE NDIRITU</td><td align="left">M</td><td align="left">2004</td><td align="left">134</td><td align="left">GILGIL</td><td align="left">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$14&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td style="background-color:#C2D69B;">
+                16
+            </td><td align="left" style="background-color:#C2D69B;">07215223022</td><td align="left" style="background-color:#C2D69B;">MUIGAI AYUB MUCHIRI</td><td align="left" style="background-color:#C2D69B;">M</td><td align="left" style="background-color:#C2D69B;">2002</td><td align="left" style="background-color:#C2D69B;">176</td><td align="left" style="background-color:#C2D69B;">KIPIPIRI</td><td align="left" style="background-color:#C2D69B;">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$15&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td>
+                17
+            </td><td align="left">07215223028</td><td align="left">MUIGAI DORCAS WANJIRU</td><td align="left">F</td><td align="left">2004</td><td align="left">208</td><td align="left">KIPIPIRI</td><td align="left">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$16&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td style="background-color:#C2D69B;">
+                18
+            </td><td align="left" style="background-color:#C2D69B;">27570107093</td><td align="left" style="background-color:#C2D69B;">MUIRURI EUNICE MUTHONI</td><td align="left" style="background-color:#C2D69B;">F</td><td align="left" style="background-color:#C2D69B;">2004</td><td align="left" style="background-color:#C2D69B;">189</td><td align="left" style="background-color:#C2D69B;">GILGIL</td><td align="left" style="background-color:#C2D69B;">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$17&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td>
+                19
+            </td><td align="left">27570107124</td><td align="left">MUTURI SERAH NDUTA</td><td align="left">F</td><td align="left">2004</td><td align="left">211</td><td align="left">GILGIL</td><td align="left">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$18&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td style="background-color:#C2D69B;">
+                20
+            </td><td align="left" style="background-color:#C2D69B;">27570113028</td><td align="left" style="background-color:#C2D69B;">MWANGI MARGRET NDUTA</td><td align="left" style="background-color:#C2D69B;">F</td><td align="left" style="background-color:#C2D69B;">2004</td><td align="left" style="background-color:#C2D69B;">111</td><td align="left" style="background-color:#C2D69B;">GILGIL</td><td align="left" style="background-color:#C2D69B;">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$19&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td>
+                21
+            </td><td align="left">27570115007</td><td align="left">NANG&#39;ORO ESTHER NAILANDEI</td><td align="left">F</td><td align="left">2005</td><td align="left">222</td><td align="left">GILGIL</td><td align="left">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$20&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td style="background-color:#C2D69B;">
+                22
+            </td><td align="left" style="background-color:#C2D69B;">27570107085</td><td align="left" style="background-color:#C2D69B;">NDIRITU GEORGE NDUNG&#39;U</td><td align="left" style="background-color:#C2D69B;">M</td><td align="left" style="background-color:#C2D69B;">2003</td><td align="left" style="background-color:#C2D69B;">128</td><td align="left" style="background-color:#C2D69B;">GILGIL</td><td align="left" style="background-color:#C2D69B;">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$21&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td>
+                23
+            </td><td align="left">27570107073</td><td align="left">NDONGA JAMES BURUGU</td><td align="left">M</td><td align="left">2003</td><td align="left">154</td><td align="left">GILGIL</td><td align="left">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$22&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td style="background-color:#C2D69B;">
+                24
+            </td><td align="left" style="background-color:#C2D69B;">27570113009</td><td align="left" style="background-color:#C2D69B;">NG&#39;ANG&#39;A KELVIN KAMAU</td><td align="left" style="background-color:#C2D69B;">M</td><td align="left" style="background-color:#C2D69B;">2002</td><td align="left" style="background-color:#C2D69B;">188</td><td align="left" style="background-color:#C2D69B;">GILGIL</td><td align="left" style="background-color:#C2D69B;">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$23&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td>
+                25
+            </td><td align="left">27570113011</td><td align="left">NYAMBURA JECINTA GATHONI </td><td align="left">F</td><td align="left">2005</td><td align="left">180</td><td align="left">GILGIL</td><td align="left">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$24&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td style="background-color:#C2D69B;">
+                26
+            </td><td align="left" style="background-color:#C2D69B;">27570113040</td><td align="left" style="background-color:#C2D69B;">NYANG&#39;AU FAITH BARONGO</td><td align="left" style="background-color:#C2D69B;">F</td><td align="left" style="background-color:#C2D69B;">2004</td><td align="left" style="background-color:#C2D69B;">232</td><td align="left" style="background-color:#C2D69B;">GILGIL</td><td align="left" style="background-color:#C2D69B;">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$25&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td>
+                27
+            </td><td align="left">27570113034</td><td align="left">NYANG&#39;AU MERCY NYANCHERA</td><td align="left">F</td><td align="left">2004</td><td align="left">243</td><td align="left">GILGIL</td><td align="left">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$26&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td style="background-color:#C2D69B;">
+                28
+            </td><td align="left" style="background-color:#C2D69B;">27570109030</td><td align="left" style="background-color:#C2D69B;">NYOKABI SUSAN WANJIRU</td><td align="left" style="background-color:#C2D69B;">F</td><td align="left" style="background-color:#C2D69B;">2003</td><td align="left" style="background-color:#C2D69B;">189</td><td align="left" style="background-color:#C2D69B;">GILGIL</td><td align="left" style="background-color:#C2D69B;">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$27&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td>
+                29
+            </td><td align="left">27570114023</td><td align="left">PAUL KUNGU</td><td align="left">M</td><td align="left">2001</td><td align="left">150</td><td align="left">GILGIL</td><td align="left">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$28&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td style="background-color:#C2D69B;">
+                30
+            </td><td align="left" style="background-color:#C2D69B;">27570128011</td><td align="left" style="background-color:#C2D69B;">TEMBO BRIAN NDUNG&#39;U</td><td align="left" style="background-color:#C2D69B;">M</td><td align="left" style="background-color:#C2D69B;">2006</td><td align="left" style="background-color:#C2D69B;">191</td><td align="left" style="background-color:#C2D69B;">GILGIL</td><td align="left" style="background-color:#C2D69B;">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$29&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td>
+                31
+            </td><td align="left">27570107036</td><td align="left">WACHANIA ESTHER WANJIKU</td><td align="left">F</td><td align="left">2004</td><td align="left">228</td><td align="left">GILGIL</td><td align="left">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$30&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td style="background-color:#C2D69B;">
+                32
+            </td><td align="left" style="background-color:#C2D69B;">27570108003</td><td align="left" style="background-color:#C2D69B;">WAITHAKA JAMES NJUGUNA</td><td align="left" style="background-color:#C2D69B;">M</td><td align="left" style="background-color:#C2D69B;">2005</td><td align="left" style="background-color:#C2D69B;">215</td><td align="left" style="background-color:#C2D69B;">GILGIL</td><td align="left" style="background-color:#C2D69B;">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$31&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td>
+                33
+            </td><td align="left">27570113018</td><td align="left">WAMBAIRE EVANS GICHUI</td><td align="left">M</td><td align="left">2005</td><td align="left">239</td><td align="left">GILGIL</td><td align="left">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$32&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td style="background-color:#C2D69B;">
+                34
+            </td><td align="left" style="background-color:#C2D69B;">27570108010</td><td align="left" style="background-color:#C2D69B;">WAMBUI MARY GAKURU</td><td align="left" style="background-color:#C2D69B;">F</td><td align="left" style="background-color:#C2D69B;">2005</td><td align="left" style="background-color:#C2D69B;">208</td><td align="left" style="background-color:#C2D69B;">GILGIL</td><td align="left" style="background-color:#C2D69B;">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$33&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td>
+                35
+            </td><td align="left">27570107104</td><td align="left">WANGUI ELIZABETH RUGURU</td><td align="left">F</td><td align="left">2003</td><td align="left">231</td><td align="left">GILGIL</td><td align="left">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$34&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr><tr class="GridRow" class="textmode" style="background-color:White;">
+			<td style="background-color:#C2D69B;">
+                36
+            </td><td align="left" style="background-color:#C2D69B;">27570107031</td><td align="left" style="background-color:#C2D69B;">WANGUI VERONICAH GATHONI</td><td align="left" style="background-color:#C2D69B;">F</td><td align="left" style="background-color:#C2D69B;">2003</td><td align="left" style="background-color:#C2D69B;">175</td><td align="left" style="background-color:#C2D69B;">GILGIL</td><td align="left" style="background-color:#C2D69B;">&nbsp;</td><td><a href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$grdLearners&#39;,&#39;ActionUNDO$35&#39;)" style="display:inline-block;color:#333333;width:95px;">[REVERSE]</a></td>
+		</tr>
+	</table>
+</div>
